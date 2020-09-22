@@ -1,0 +1,20 @@
+.container {
+    margin-top: 20px;
+}
+
+.btn {
+    display: flex;
+    margin: 0 auto;
+}
+
+.card-header {
+    text-align: center;
+}
+
+.card-title {
+    text-align: center;
+}
+
+.form-control {
+    text-align: center;
+}
